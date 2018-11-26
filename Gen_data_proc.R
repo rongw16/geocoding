@@ -10,6 +10,7 @@ require(maps)
 require(maptools)
 require(dplyr)
 
+# first try
 # The geo tif is a better way to store raster data
 # Here is example to load them and resample them
 # However, the query function will load them directly
